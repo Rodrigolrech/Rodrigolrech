@@ -1,9 +1,13 @@
 <h2 align="center">Hi, I'm Rodrigo Luiz Rech👋<h2>
 <h3 align="center">A Front-End developer from Brasil 🇧🇷</h3>
   
-- 👩🏻‍🎓 Full Stack Developer student **at Trybe**
+- 🎓 Full Stack Developer student **at Trybe**
 
-- 👩🏻‍🔧 Mechanical Production Engineering
+- 👨‍🔧 Mechanical Production Engineering
+  
+- 🌱 I’m currently learning Node.js, Python and Django; 
+  
+- ⚡ Fun fact: I have watched my favorite TV show more than 10 times;
 
 - 📫 Reach me at **rodrigorech92@gmail.com**
 <p align="center">
