@@ -1,5 +1,4 @@
 <h2 align="center">Hi, I'm Rodrigo Luiz Rech👋<h2>
-<h3 align="center">A Front-End developer from Brasil 🇧🇷</h3>
   
 - 🎓 Full Stack Developer student **at Trybe**
 
