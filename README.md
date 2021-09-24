@@ -4,7 +4,7 @@
 
 - 👨‍🔧 Mechanical Production Engineering
   
-- 🌱 I’m currently learning Node.js, Python and Django; 
+- 🌱 I’m currently learning Node.js; 
   
 - ⚡ Fun fact: I have watched my favorite TV show more than 10 times;
 
