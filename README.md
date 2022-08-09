@@ -1,10 +1,10 @@
 <h2 align="center">Hi, I'm Rodrigo Luiz Rech👋<h2>
   
-- 🎓 Full Stack Developer student **at Trybe**
+- 🎓 Full Stack Developer
 
 - 👨‍🔧 Mechanical Production Engineering
   
-- 🌱 I’m currently learning Java; 
+- 🌱 I’m currently working at wipro; 
   
 - ⚡ Fun fact: I have watched my favorite TV show more than 10 times;
 
