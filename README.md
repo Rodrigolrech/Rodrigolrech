@@ -4,7 +4,7 @@
 
 - 👨‍🔧 Mechanical Production Engineering
   
-- 🌱 I’m currently working at wipro; 
+- 🌱 I’m currently working at wipro as a java developer; 
   
 - ⚡ Fun fact: I have watched my favorite TV show more than 10 times;
 
